@@ -40,3 +40,7 @@ package-lock.json
 # personal data — never commit
 cv.md
 article-digest.md
+
+# personal interview stories + merged tracker TSVs — never commit
+interview-prep/story-bank.md
+batch/tracker-additions/merged/
